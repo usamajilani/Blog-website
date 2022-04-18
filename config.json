@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "blog_name": "BLOGGER'S AVENUE",
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/bloggersavenue",
+    "prod_uri": "mysql://root:@localhost/bloggersavenue",
+    "fb_url": "https://facebook.com/bloggersavenue",
+    "tw_url":"https://twitter.com/bloggersavenue",
+    "gh_url":"https://github.com/bloggersavenue",
+    "gmail-user": "usamajilani57@gmail.com",
+    "gmail-password":"qw712002",
+    "about_text": "Enter about info here",
+    "no_of_posts": 5,
+    "admin_user": "usama",
+    "admin_password": "qwerty"
+  }
+
+
+
+}
